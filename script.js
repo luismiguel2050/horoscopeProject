@@ -9,6 +9,7 @@ const today = ['a great day!', 'an hard day.', 'what it is','one day after yeste
 //advices array
 const advices = ['take time to know yourself', 'a narrow focus brings big results', 'show up fully', 'don\'t make assumptions', 'be patient and persistent', 'in order to get, you have to give', 'luck comes from hard work', 'be your best at all times', 'stay true to yourself', 'do what you love, not what you\'re told to love', 'don\'t look back'];
 
+//function that randomly picks an element inside each array and returns a composed message
 const randMessage = () => {
     let randSign = signs[Math.floor(Math.random()*12)];
     let randToday = today[Math.floor(Math.random()*16)];
