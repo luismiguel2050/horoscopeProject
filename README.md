@@ -4,15 +4,17 @@
 A small horoscope, that randomly delivers a message with a sign, information about the day and an advice. Follow the advice and be happy!!!
 
 
-##Features
+## Features
 
 A function that picks a random sign, day info and an advice, and composes and returns a message
 
-##Futures improvements
+## Future improvements
 
 Add some HTML and improve the user interaction with the horoscope.
 
+## How to use
 
+Run the code in a Javascript environment and enjoy.
 
 
 I hope you enjoy this!! Thanks for checking this.
@@ -22,7 +24,7 @@ I hope you enjoy this!! Thanks for checking this.
 
 
 
-##License
+## License
 
 MIT License
 
